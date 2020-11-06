@@ -1,11 +1,10 @@
 
 body{
 
- background-image:url('https://i.redd.it/u8ke6ddyd0n51.png');
   padding: 10px;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  
+  background-color:black;
   
 }
 
@@ -25,6 +24,9 @@ h2{
 div[class=boxed]{
 	  margin-left: 10%;
 	  margin-right: 10%;
+	  
+ background-image:url('https://i.redd.it/u8ke6ddyd0n51.png');
+
 }
 img{
 	 
