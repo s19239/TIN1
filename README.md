@@ -1,4 +1,3 @@
 # TIN1
-Html and css files
-CSS repository contains CSS files for those HTML files .
+Tin homework 1-2
 Images repository contans Images used .
